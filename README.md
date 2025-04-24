@@ -5,6 +5,6 @@
 > - Displaying System Info
 > - Displaying Network Info
 > - Disk Cleanup
-> - Backing up files (though this might be unstable, havent really tested it yet)
+> - Backing up files
 
-coded by galax ~and with help from chatgpt~
+coded with love by galax
