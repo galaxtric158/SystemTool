@@ -1,5 +1,5 @@
 # SystemTool
-### SystemTool is a batch file script used to figure out information and help out your system.
+### SystemTool is a batch file tool used to easily debug hardware, look at hardware specifications, and help out your system with certain tasks such as backing up files.
 > [!NOTE]
 > What can SystemTool be used for?
 > - Displaying System Info
