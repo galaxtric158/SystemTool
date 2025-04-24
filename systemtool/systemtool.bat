@@ -110,6 +110,6 @@ echo ============================
 set /p source="Enter the source directory (e.g., C:\Users\YourUsername\Documents): "
 set /p destination="Enter the destination directory (e.g., D:\Backup): "
 xcopy /s /e /h /y "%source%" "%destination%"
-echo Backup completed.
+echo Backup completed. Refresh your destination file.
 pause
 goto MENU
