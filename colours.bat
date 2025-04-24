@@ -1,3 +1,4 @@
+:: Color Library
 @echo off
 cls
 echo [101;93m STYLES [0m
